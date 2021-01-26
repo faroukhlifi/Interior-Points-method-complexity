@@ -1,6 +1,6 @@
 # interior_point_methods
 
-Research projet I made with Farouk Khlifi under the supervision of professors Xavier Allamigeon and Stéphane Gaubert, Ecole polytechnique. In this repository, you will find the code we developped, as well as the abstract of our work below.
+Research projet I made with Adrien Lemercier under the supervision of professors Xavier Allamigeon and Stéphane Gaubert, Ecole polytechnique. In this repository, you will find the code we developped, as well as the abstract of our work below.
 
 ACKNOWLEDGMENTS
 Our deep gratitude goes to professor Xavier Allamigeon and to professor Stéphane Gaubert, who met with us each week to review our findings, suggest new ideas and share their thoughts with us. We thank them sincerely for their kindness and dedication.
